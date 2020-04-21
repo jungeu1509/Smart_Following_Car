@@ -6,4 +6,4 @@ using Arduino, ZigBee, Gyro sensor
 
 please read Report first
 
-Driving vidio link: https://youtu.be/xfpzcmhucuE
+Driving video link: https://youtu.be/xfpzcmhucuE
