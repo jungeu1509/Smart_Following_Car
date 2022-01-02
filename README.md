@@ -1,4 +1,5 @@
-# Posture_correction_cushion
+# Smart Following Car
+
 (Korean language)
 Team project of Dankook Univ. Electronics and Electrical Engineering
 
